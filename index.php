@@ -20,3 +20,5 @@ $application_config = 'catalog';
 
 // Application
 require_once(DIR_SYSTEM . 'framework.php');
+
+//test
